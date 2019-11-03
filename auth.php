@@ -42,7 +42,7 @@ function sanitize(string $input): string
         <form action="auth.php" method="post">
             <label for="username">Username</label>
             <input type="text" name="username">
-            <label for="password">Password</label>
+            <label for="password">Mot de Passe</label>
             <input type="password" name="password">
             <input type="submit" value="Send">
         </form>
