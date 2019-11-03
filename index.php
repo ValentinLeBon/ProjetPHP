@@ -1,5 +1,6 @@
 <?php
-    echo "Hello World";
+    header ('register.php');
+  exit();
 ?>
 
 
@@ -12,6 +13,8 @@
     <title>Document</title>
 </head>
 <body>
-    
+    <div>
+        
+    </div>
 </body>
 </html>
